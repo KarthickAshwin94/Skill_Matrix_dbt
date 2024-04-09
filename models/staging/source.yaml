@@ -1,0 +1,13 @@
+version: 2
+ 
+sources:
+  - name: SKILL_MATRIX
+    database: SKILL_MATRIX
+    schema: NEW_SCHEMA
+    tables:
+      - name: Accounts
+      - name: Skills
+      - name: Certifications
+      - name: Projects
+      - name: otps
+ 
