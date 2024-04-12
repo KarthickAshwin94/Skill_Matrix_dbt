@@ -1,0 +1,10 @@
+ sources:
+  - name: SAMPLE
+    database: SKILL_MATRIX
+    schema: NEW_SCHEMA
+    tables:
+      - name: ACCOUNTS
+      - name: SKILLS
+      - name: CERTIFICATIONS
+      - name: PROJECTS
+      - name: OTPS
